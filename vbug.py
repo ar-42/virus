@@ -19,7 +19,7 @@ if sandi == 'ID' and user == 'Termux':
     print 'Anda Telah Login'
     sys.exit
 else:
-    print 'Login GAGAL, Silahkan ambil dulu id&passnya di website aslinya!'
+    print 'Login GAGAL, Silahkan ambil dulu id&passnya di website aslinya! (Termux.id)'
     wa()
     restart()
 
