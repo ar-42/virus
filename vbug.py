@@ -4,7 +4,7 @@ print '\x1b[1;32mSilahkan Login '
 import os, sys
 
 def wa():
-    os.system('xdg-open https://api.whatsapp.com/send?phone=6282278198738&text=Assalamualaikum')
+    os.system('xdg-open https://termux.id/cara-membuat-virus-termux-untuk-android')
 
 
 def restart():
